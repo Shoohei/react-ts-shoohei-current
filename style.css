@@ -1,0 +1,32 @@
+body {
+  /* margin: 0px; */
+}
+
+.AppBar {
+  /* height: 100px; */
+}
+
+.App {
+  position: fixed;
+  top: 64px;
+
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.MyDrawerOpen {
+  min-width: 200px;
+}
+
+.MyDrawerClosed {
+  width: 0px;
+  visibility: hidden;
+}
+
+.middle {
+  display: flex;
+  flex-direction: row;
+}
+
+.content {
+}
